@@ -12,6 +12,7 @@ A homework aid that extracts and organizes information from a specified document
 ## General Information
 This project offers a solution for efficiently extracting data from hyperlinks within a document, whether they lead to websites or PDFs. Rather than manually visiting each link to gather information, this tool automatically scraps data directly from the provided hyperlinks.
 
+<img width="1472" alt="WebScaper" src="https://github.com/user-attachments/assets/84ecf045-4283-407b-9cc2-d3984c94216a">
 
 
 ## Features
